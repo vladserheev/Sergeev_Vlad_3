@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\2 семестр\\ОП\\laba3\\laba3_2\\laba3_2.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\2 семестр\\ОП\\Sergeev_Vlad_3\\laba3_2\\laba3_2.csproj",
       "projectName": "laba3_2",
-      "projectPath": "C:\\Users\\Windows 10\\Documents\\2 семестр\\ОП\\laba3\\laba3_2\\laba3_2.csproj",
+      "projectPath": "C:\\Users\\Windows 10\\Documents\\2 семестр\\ОП\\Sergeev_Vlad_3\\laba3_2\\laba3_2.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\Documents\\2 семестр\\ОП\\laba3\\laba3_2\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\Documents\\2 семестр\\ОП\\Sergeev_Vlad_3\\laba3_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
